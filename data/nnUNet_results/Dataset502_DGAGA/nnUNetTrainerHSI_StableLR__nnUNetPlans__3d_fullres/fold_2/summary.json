@@ -1,0 +1,336 @@
+{
+    "foreground_mean": {
+        "Accuracy": 0.918689525127411,
+        "Dice": 0.7356298766818528,
+        "FN": 2626310.875,
+        "FP": 3768205.0625,
+        "IoU": 0.6057516948735835,
+        "Precision": 0.6983383362332828,
+        "Recall": 0.8096774318370739,
+        "TN": 63926704.9375,
+        "TP": 8321979.125,
+        "n_pred": 12090184.1875,
+        "n_ref": 10948290.0
+    },
+    "mean": {
+        "1": {
+            "Accuracy": 0.918689525127411,
+            "Dice": 0.7356298766818528,
+            "FN": 2626310.875,
+            "FP": 3768205.0625,
+            "IoU": 0.6057516948735835,
+            "Precision": 0.6983383362332828,
+            "Recall": 0.8096774318370739,
+            "TN": 63926704.9375,
+            "TP": 8321979.125,
+            "n_pred": 12090184.1875,
+            "n_ref": 10948290.0
+        }
+    },
+    "metric_per_case": [
+        {
+            "metrics": {
+                "1": {
+                    "Accuracy": 0.9336448287963868,
+                    "Dice": 0.8205855570971718,
+                    "FN": 2365514,
+                    "FP": 2852869,
+                    "IoU": 0.6957567477955497,
+                    "Precision": 0.8070625256357237,
+                    "Recall": 0.834569491591802,
+                    "TN": 61491191,
+                    "TP": 11933626,
+                    "n_pred": 14786495,
+                    "n_ref": 14299140
+                }
+            },
+            "prediction_file": "/data/CXY/g/szy/data/nnUNet_results/Dataset502_DGAGA/nnUNetTrainerHSI_StableLR__nnUNetPlans__3d_fullres/fold_2/validation/031368-20x-roi3.nii.gz",
+            "reference_file": "/data/CXY/g/szy/data/nnUNet_preprocessed/Dataset502_DGAGA/gt_segmentations/031368-20x-roi3.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Accuracy": 0.7032741038004557,
+                    "Dice": 0.29088509113681194,
+                    "FN": 14854493,
+                    "FP": 8480981,
+                    "IoU": 0.17019633356910635,
+                    "Precision": 0.36075519544910345,
+                    "Recall": 0.2436882086687338,
+                    "TN": 50521519,
+                    "TP": 4786207,
+                    "n_pred": 13267188,
+                    "n_ref": 19640700
+                }
+            },
+            "prediction_file": "/data/CXY/g/szy/data/nnUNet_results/Dataset502_DGAGA/nnUNetTrainerHSI_StableLR__nnUNetPlans__3d_fullres/fold_2/validation/032112-20x-roi1.nii.gz",
+            "reference_file": "/data/CXY/g/szy/data/nnUNet_preprocessed/Dataset502_DGAGA/gt_segmentations/032112-20x-roi1.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Accuracy": 0.9678108342488607,
+                    "Dice": 0.7075098791394839,
+                    "FN": 32323,
+                    "FP": 2499136,
+                    "IoU": 0.547400608887004,
+                    "Precision": 0.550582439717215,
+                    "Recall": 0.9895530733479422,
+                    "TN": 73050044,
+                    "TP": 3061697,
+                    "n_pred": 5560833,
+                    "n_ref": 3094020
+                }
+            },
+            "prediction_file": "/data/CXY/g/szy/data/nnUNet_results/Dataset502_DGAGA/nnUNetTrainerHSI_StableLR__nnUNetPlans__3d_fullres/fold_2/validation/032112-20x-roi5.nii.gz",
+            "reference_file": "/data/CXY/g/szy/data/nnUNet_preprocessed/Dataset502_DGAGA/gt_segmentations/032112-20x-roi5.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Accuracy": 0.8519321823120117,
+                    "Dice": 0.6302084257915981,
+                    "FN": 599507,
+                    "FP": 11045020,
+                    "IoU": 0.46007614417966725,
+                    "Precision": 0.47323075126888203,
+                    "Recall": 0.9430232580241704,
+                    "TN": 57076220,
+                    "TP": 9922453,
+                    "n_pred": 20967473,
+                    "n_ref": 10521960
+                }
+            },
+            "prediction_file": "/data/CXY/g/szy/data/nnUNet_results/Dataset502_DGAGA/nnUNetTrainerHSI_StableLR__nnUNetPlans__3d_fullres/fold_2/validation/032112c-20x-roi5.nii.gz",
+            "reference_file": "/data/CXY/g/szy/data/nnUNet_preprocessed/Dataset502_DGAGA/gt_segmentations/032112c-20x-roi5.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Accuracy": 0.927152468363444,
+                    "Dice": 0.7540635265440319,
+                    "FN": 1284880,
+                    "FP": 4444083,
+                    "IoU": 0.6052182776642029,
+                    "Precision": 0.6640103008707369,
+                    "Recall": 0.872375253783409,
+                    "TN": 64131477,
+                    "TP": 8782760,
+                    "n_pred": 13226843,
+                    "n_ref": 10067640
+                }
+            },
+            "prediction_file": "/data/CXY/g/szy/data/nnUNet_results/Dataset502_DGAGA/nnUNetTrainerHSI_StableLR__nnUNetPlans__3d_fullres/fold_2/validation/032236C-20x-roi3.nii.gz",
+            "reference_file": "/data/CXY/g/szy/data/nnUNet_preprocessed/Dataset502_DGAGA/gt_segmentations/032236C-20x-roi3.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Accuracy": 0.8050484085083007,
+                    "Dice": 0.49033881713699756,
+                    "FN": 11337799,
+                    "FP": 3993818,
+                    "IoU": 0.32480057293855347,
+                    "Precision": 0.6487097940636638,
+                    "Recall": 0.39412113944438565,
+                    "TN": 55936402,
+                    "TP": 7375181,
+                    "n_pred": 11368999,
+                    "n_ref": 18712980
+                }
+            },
+            "prediction_file": "/data/CXY/g/szy/data/nnUNet_results/Dataset502_DGAGA/nnUNetTrainerHSI_StableLR__nnUNetPlans__3d_fullres/fold_2/validation/032979-20x-roi6.nii.gz",
+            "reference_file": "/data/CXY/g/szy/data/nnUNet_preprocessed/Dataset502_DGAGA/gt_segmentations/032979-20x-roi6.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Accuracy": 0.9338960138956706,
+                    "Dice": 0.7220364870924882,
+                    "FN": 2825295,
+                    "FP": 2373334,
+                    "IoU": 0.5649899076146341,
+                    "Precision": 0.7399171249073592,
+                    "Recall": 0.7049996554338088,
+                    "TN": 66692606,
+                    "TP": 6751965,
+                    "n_pred": 9125299,
+                    "n_ref": 9577260
+                }
+            },
+            "prediction_file": "/data/CXY/g/szy/data/nnUNet_results/Dataset502_DGAGA/nnUNetTrainerHSI_StableLR__nnUNetPlans__3d_fullres/fold_2/validation/033942-20x-roi1.nii.gz",
+            "reference_file": "/data/CXY/g/szy/data/nnUNet_preprocessed/Dataset502_DGAGA/gt_segmentations/033942-20x-roi1.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Accuracy": 0.9317574946085612,
+                    "Dice": 0.8738811370014259,
+                    "FN": 1046595,
+                    "FP": 4320214,
+                    "IoU": 0.7760114546651834,
+                    "Precision": 0.8114563321109006,
+                    "Recall": 0.9467109946140475,
+                    "TN": 54683006,
+                    "TP": 18593385,
+                    "n_pred": 22913599,
+                    "n_ref": 19639980
+                }
+            },
+            "prediction_file": "/data/CXY/g/szy/data/nnUNet_results/Dataset502_DGAGA/nnUNetTrainerHSI_StableLR__nnUNetPlans__3d_fullres/fold_2/validation/033942C-20x-roi5.nii.gz",
+            "reference_file": "/data/CXY/g/szy/data/nnUNet_preprocessed/Dataset502_DGAGA/gt_segmentations/033942C-20x-roi5.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Accuracy": 0.9579162470499675,
+                    "Dice": 0.856880615004949,
+                    "FN": 1346022,
+                    "FP": 1963579,
+                    "IoU": 0.7495985338475025,
+                    "Precision": 0.8345924495817889,
+                    "Recall": 0.8803918746001279,
+                    "TN": 65426021,
+                    "TP": 9907578,
+                    "n_pred": 11871157,
+                    "n_ref": 11253600
+                }
+            },
+            "prediction_file": "/data/CXY/g/szy/data/nnUNet_results/Dataset502_DGAGA/nnUNetTrainerHSI_StableLR__nnUNetPlans__3d_fullres/fold_2/validation/034250-20x-roi2.nii.gz",
+            "reference_file": "/data/CXY/g/szy/data/nnUNet_preprocessed/Dataset502_DGAGA/gt_segmentations/034250-20x-roi2.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Accuracy": 0.936125233968099,
+                    "Dice": 0.845607374284423,
+                    "FN": 363226,
+                    "FP": 4660090,
+                    "IoU": 0.7325127997593139,
+                    "Precision": 0.7469601047412896,
+                    "Recall": 0.974274977407228,
+                    "TN": 59863550,
+                    "TP": 13756334,
+                    "n_pred": 18416424,
+                    "n_ref": 14119560
+                }
+            },
+            "prediction_file": "/data/CXY/g/szy/data/nnUNet_results/Dataset502_DGAGA/nnUNetTrainerHSI_StableLR__nnUNetPlans__3d_fullres/fold_2/validation/040186-20x-roi3.nii.gz",
+            "reference_file": "/data/CXY/g/szy/data/nnUNet_preprocessed/Dataset502_DGAGA/gt_segmentations/040186-20x-roi3.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Accuracy": 0.902547861735026,
+                    "Dice": 0.6720721781563844,
+                    "FN": 985815,
+                    "FP": 6678133,
+                    "IoU": 0.5061059547824818,
+                    "Precision": 0.5404399301989089,
+                    "Recall": 0.8884731301036513,
+                    "TN": 63125807,
+                    "TP": 7853445,
+                    "n_pred": 14531578,
+                    "n_ref": 8839260
+                }
+            },
+            "prediction_file": "/data/CXY/g/szy/data/nnUNet_results/Dataset502_DGAGA/nnUNetTrainerHSI_StableLR__nnUNetPlans__3d_fullres/fold_2/validation/040483-20x-roi3.nii.gz",
+            "reference_file": "/data/CXY/g/szy/data/nnUNet_preprocessed/Dataset502_DGAGA/gt_segmentations/040483-20x-roi3.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Accuracy": 0.9428254826863607,
+                    "Dice": 0.5831134498592897,
+                    "FN": 1044395,
+                    "FP": 3451992,
+                    "IoU": 0.41154561725593414,
+                    "Precision": 0.47670267957045254,
+                    "Recall": 0.7506827372511948,
+                    "TN": 71002188,
+                    "TP": 3144625,
+                    "n_pred": 6596617,
+                    "n_ref": 4189020
+                }
+            },
+            "prediction_file": "/data/CXY/g/szy/data/nnUNet_results/Dataset502_DGAGA/nnUNetTrainerHSI_StableLR__nnUNetPlans__3d_fullres/fold_2/validation/041602_2-20x-roi5.nii.gz",
+            "reference_file": "/data/CXY/g/szy/data/nnUNet_preprocessed/Dataset502_DGAGA/gt_segmentations/041602_2-20x-roi5.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Accuracy": 0.973662618001302,
+                    "Dice": 0.8697975265467695,
+                    "FN": 1192987,
+                    "FP": 878269,
+                    "IoU": 0.7695944284117363,
+                    "Precision": 0.887352625277973,
+                    "Recall": 0.8529235613351185,
+                    "TN": 69653591,
+                    "TP": 6918353,
+                    "n_pred": 7796622,
+                    "n_ref": 8111340
+                }
+            },
+            "prediction_file": "/data/CXY/g/szy/data/nnUNet_results/Dataset502_DGAGA/nnUNetTrainerHSI_StableLR__nnUNetPlans__3d_fullres/fold_2/validation/042145-20x-roi6.nii.gz",
+            "reference_file": "/data/CXY/g/szy/data/nnUNet_preprocessed/Dataset502_DGAGA/gt_segmentations/042145-20x-roi6.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Accuracy": 0.9912678527832032,
+                    "Dice": 0.8910242474080483,
+                    "FN": 303551,
+                    "FP": 383173,
+                    "IoU": 0.8034659417264114,
+                    "Precision": 0.8799064884527218,
+                    "Recall": 0.9024265509482482,
+                    "TN": 75149027,
+                    "TP": 2807449,
+                    "n_pred": 3190622,
+                    "n_ref": 3111000
+                }
+            },
+            "prediction_file": "/data/CXY/g/szy/data/nnUNet_results/Dataset502_DGAGA/nnUNetTrainerHSI_StableLR__nnUNetPlans__3d_fullres/fold_2/validation/042145_2-20x-roi9.nii.gz",
+            "reference_file": "/data/CXY/g/szy/data/nnUNet_preprocessed/Dataset502_DGAGA/gt_segmentations/042145_2-20x-roi9.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Accuracy": 0.9796817270914714,
+                    "Dice": 0.878680355588841,
+                    "FN": 529256,
+                    "FP": 1068638,
+                    "IoU": 0.7836127369821155,
+                    "Precision": 0.8441119261660045,
+                    "Recall": 0.9162010076348448,
+                    "TN": 71258782,
+                    "TP": 5786524,
+                    "n_pred": 6855162,
+                    "n_ref": 6315780
+                }
+            },
+            "prediction_file": "/data/CXY/g/szy/data/nnUNet_results/Dataset502_DGAGA/nnUNetTrainerHSI_StableLR__nnUNetPlans__3d_fullres/fold_2/validation/050323_2-20x-roi5.nii.gz",
+            "reference_file": "/data/CXY/g/szy/data/nnUNet_preprocessed/Dataset502_DGAGA/gt_segmentations/050323_2-20x-roi5.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Accuracy": 0.9604890441894531,
+                    "Dice": 0.8833933591209301,
+                    "FN": 1909316,
+                    "FP": 1197952,
+                    "IoU": 0.7911410578979378,
+                    "Precision": 0.9076227117198009,
+                    "Recall": 0.860423995204468,
+                    "TN": 63765848,
+                    "TP": 11770084,
+                    "n_pred": 12968036,
+                    "n_ref": 13679400
+                }
+            },
+            "prediction_file": "/data/CXY/g/szy/data/nnUNet_results/Dataset502_DGAGA/nnUNetTrainerHSI_StableLR__nnUNetPlans__3d_fullres/fold_2/validation/050624-20x-roi1.nii.gz",
+            "reference_file": "/data/CXY/g/szy/data/nnUNet_preprocessed/Dataset502_DGAGA/gt_segmentations/050624-20x-roi1.nii.gz"
+        }
+    ]
+}

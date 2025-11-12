@@ -1,0 +1,11 @@
+{
+    "channel_names": {
+        "0": "HSI"
+    },
+    "labels": {
+        "background": 0,
+        "target": 1
+    },
+    "numTraining": 79,
+    "file_ending": ".nii.gz"
+}
